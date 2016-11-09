@@ -1,1 +1,34 @@
-/* Ingresa tu css aqui */
+body{
+    margin: o auto;
+    text-align:center;
+    object-position: center;
+}
+ul {
+    display:inline-block;
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+    font-size: 20px;
+    }
+.parrafo1 {
+    margin: 30px 350px;
+    font-size: 26px;
+    }
+hr{
+    width: 50px;
+    height: 3px;
+    background: black;
+    }
+.perfil{
+    width: 300px;
+    height: 200px;
+    }
+.uno, .dos, .tres,.cuatro, .cinco, .seis  {
+    display:inline-block;
+    }
+p{
+    position:relative;
+    bottom: 45px;
+    left: 40px;
+    color: white;
+}
