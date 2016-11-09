@@ -1,5 +1,5 @@
 body{
-    text-align: center;
+    text-align:center;
     object-position: center;
     }
 ul{
@@ -17,9 +17,8 @@ hr{
     border: 2px solid black;
     width: 50px;
     }
-p2 {
-    margin: 10px;
-    font-size: 30px
+p2{
+    position: fixed;
 }
 .uno, .dos, .tres,.cuatro, .cinco, .seis  {
     display:inline-block;
