@@ -1,5 +1,5 @@
 body{
-    text-align:center;
+    text-align: center;
     object-position: center;
     }
 ul{
@@ -10,13 +10,17 @@ ul{
     font-size: 20px;
     }
 .parrafo1 {
-    margin: 40px 350px;
+    margin: 30px 350px;
     font-size: 26px;
     }
 hr{
-    border: 2px solid black;/*no se ve*/
+    border: 2px solid black;
+    width: 50px;
     }
-
+p2 {
+    margin: 10px;
+    font-size: 30px
+}
 .uno, .dos, .tres,.cuatro, .cinco, .seis  {
     display:inline-block;
     margin: 5px 50px;
